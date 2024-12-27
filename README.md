@@ -24,4 +24,5 @@ with the application in real time, making it a practical and efficient solution 
 
 #OUTPUT OF THE TASK 
 
+   ![Screenshot (83)](https://github.com/user-attachments/assets/b3d33893-2371-4b80-909b-6956a39f3371)
  
