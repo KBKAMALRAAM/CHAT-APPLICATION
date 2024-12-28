@@ -10,7 +10,7 @@
 
 **BATCH DURATION** : NOVEMBER 8th, 2024 to DECEMBER 8th, 2024
 
-**MENTOR NAME** :
+**MENTOR NAME** : NEELA SANTHOSH
 
 This task required the creation of a live chat application using WebSocket or Socket.IO for real-time communication between the client and the server. 
 The application allowed users to send and receive messages in real time, making it suitable for creating interactive chat applications. The primary
